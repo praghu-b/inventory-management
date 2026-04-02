@@ -1,0 +1,50 @@
+[
+    {
+        "id": "INV001",
+        "name": "Laptop",
+        "category": "Electronics",
+        "quantity": 5,
+        "price": 50000,
+        "status": "In Stock"
+    },
+    {
+        "id": "INV002",
+        "name": "Mouse",
+        "category": "Electronics",
+        "quantity": 50,
+        "price": 500,
+        "status": "In Stock"
+    },
+    {
+        "id": "INV003",
+        "name": "Keyboard",
+        "category": "Electronics",
+        "quantity": 30,
+        "price": 2000,
+        "status": "In Stock"
+    },
+    {
+        "id": "INV004",
+        "name": "Office Chair",
+        "category": "Furniture",
+        "quantity": 15,
+        "price": 8000,
+        "status": "In Stock"
+    },
+    {
+        "id": "INV005",
+        "name": "Desk",
+        "category": "Furniture",
+        "quantity": 10,
+        "price": 15000,
+        "status": "In Stock"
+    },
+    {
+        "id": "INV006",
+        "name": "Bookshelf",
+        "category": "Furniture",
+        "quantity": 8,
+        "price": 5000,
+        "status": "Low Stock"
+    }
+]
